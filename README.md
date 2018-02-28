@@ -1,0 +1,1 @@
+This is the REPO for my Code Wars weekly challenges, as well as solutions for random code wars challenges 
